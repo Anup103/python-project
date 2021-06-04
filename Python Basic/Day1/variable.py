@@ -11,6 +11,7 @@ print('my name is ' + name + '.' + age)
 # Assignment day 1
 name = 'His name is Sagar Budathoki'
 print(name)
+print(name)
 
 age = 'His age is 22'
 print(age)
